@@ -22,7 +22,3 @@ pip install -r requirements.txt
 python src/variance_analysis.py
 python -m pytest -q
 ```
-
-## Resume Bullet Ideas
-- Built a Python budget-vs-actual variance workflow to surface top monthly over/under-spend drivers.
-- Automated department-level variance reporting with repeatable CLI execution and tests.
