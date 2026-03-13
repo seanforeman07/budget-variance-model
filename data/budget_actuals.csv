@@ -1,0 +1,13 @@
+month,department,account,budget_amount,actual_amount
+2026-01,Sales,Travel,12000,13600
+2026-01,Sales,Software,8000,7600
+2026-01,Marketing,Ads,20000,24500
+2026-01,Operations,Supplies,9000,8700
+2026-02,Sales,Travel,11000,10800
+2026-02,Sales,Software,8500,9200
+2026-02,Marketing,Ads,21000,19800
+2026-02,Operations,Supplies,9200,9800
+2026-03,Sales,Travel,11500,12400
+2026-03,Sales,Software,8600,8400
+2026-03,Marketing,Ads,22000,22900
+2026-03,Operations,Supplies,9400,9100
