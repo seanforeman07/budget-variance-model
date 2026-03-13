@@ -1,4 +1,4 @@
-# Finance Budget Variance Analyzer
+# Finance SQL Reporting Project
 
 Python project for entry-level financial analysis that compares budget vs. actual spend and highlights variance drivers.
 
